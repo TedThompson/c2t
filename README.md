@@ -1,3 +1,7 @@
+## Preamble
+
+I have created this fork for the sole purpose of presenting a compiled binary for Windows. It was built in Windows 10 (64bit), using MinGW. I expect it would work for 32bit as well, but I make no promises.  In fact I make no promises it will work on anything or for any purpose.
+
 ## Introduction
 
 `c2t` is a command line tool that can convert binary code/data and/or Apple-1/II Monitor text, as well as 140K disk images, into audio files suitable for use with the Apple-1 and II (II, II+, //e) cassette interface.
